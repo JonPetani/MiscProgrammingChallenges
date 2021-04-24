@@ -1,2 +1,2 @@
 # MiscProgrammingChallenges
- Just Me Solving Different Programming Problems I find fun and interesting
+ Just Me Solving Different Programming Problems I find fun and interesting. Languages used can vary.
